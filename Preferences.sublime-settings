@@ -1,0 +1,72 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/ayu/ayu-dark.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"# Temporary files #",
+		".DS_Store",
+		".Spotlight-V100",
+		".Trashes",
+		"ehthumbs.db",
+		"desktop.ini",
+		"Thumbs.db",
+		"~*",
+		"*~",
+		".~lock.*",
+		"*.part",
+		"*.crdownload",
+		"@eaDir",
+		"@SynoResource",
+		".@__thumb",
+		"._*",
+		"*.pid",
+		"*.pyc",
+		"*.sublime*",
+		"*.user*"
+	],
+	"find_selected_text": true,
+	"folder_exclude_patterns":
+	[
+		".git",
+		"__pycache__",
+		"env",
+		"env3"
+	],
+	"font_face": "Fira Code Retina",
+	"font_options":
+	[
+		"gray_antialias"
+	],
+	"font_size": 13,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Rust",
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"margin": 0,
+	"rulers":
+	[
+		79
+	],
+	"show_encoding": true,
+	"show_errors_inline": false,
+	"show_full_path": true,
+	"tab_size": 4,
+	"theme": "ayu-dark.sublime-theme",
+	"theme_font_options":
+	[
+		"gray_antialias"
+	],
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
